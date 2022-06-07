@@ -3,6 +3,9 @@ name = "brain_games"
 version = "0.1.0"
 description = ""
 authors = ["Ruslan Zholud <ruslanzholud@gmail.com>"]
+packages = [
+  { include = "brain_games" },
+]
 
 [tool.poetry.dependencies]
 python = "^3.8"
