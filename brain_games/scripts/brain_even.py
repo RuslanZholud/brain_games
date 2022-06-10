@@ -30,7 +30,7 @@ def brain_even():
         elif random_num % 2 != 0 and answer != 'no':
             print('"', answer, '"', ' is wrong answer ;(. Correct answer was "no"')
             quit()
-        n +=1
+        n += 1
     print(f'Congratulations, {welcome_user.name}!')
 
 
