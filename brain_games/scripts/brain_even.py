@@ -4,16 +4,16 @@ from random import randint
 
 
 def welcome():
-    print('''Welcome to the Brain Games!
-Game: Is even number?''')
+    print('Welcome to the Brain Games!')
 
 
 def welcome_user():
-    welcome_user.name = prompt.string('May I have your name?\n')
-    print(f'Hello, {welcome_user.name}!')
+    name = prompt.string('May I have your name?\n')
+    print(f'Hello, {name}!')
+    return name
 
 
-def brain_even():
+def brain_even(name):
     print('Answer "yes" if the number is even, otherwise answer "no".')
     n = 0
     while n < 3:
@@ -31,13 +31,12 @@ def brain_even():
             print('"', answer, '"', ' is wrong answer ;(. Correct answer was "no"')
             quit()
         n += 1
-    print(f'Congratulations, {welcome_user.name}!')
+    print(f'Congratulations, {name}!')
 
 
 def main():
     welcome()
-    welcome_user()
-    brain_even()
+    brain_even(welcome_user())
 
 
 if __name__ == '__main__':
