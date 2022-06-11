@@ -2,4 +2,8 @@
    :target: https://codeclimate.com/github/codeclimate/codeclimate/maintainability
    :alt: Maintainability
 
-https://asciinema.org/a/0ugTCUIdJjtIL5w0Cc0lYGKGq
+brain-even example:
+https://asciinema.org/a/FGnro3sCtU3HTyLbT2SJ1RYgY
+
+brain-calc example:
+https://asciinema.org/a/X05v4uIdyzpoUQTxmBacJsXwt
