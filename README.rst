@@ -3,7 +3,7 @@
    :alt: Maintainability
 
 brain-even example:
-https://asciinema.org/a/FGnro3sCtU3HTyLbT2SJ1RYgY
+[![asciicast](https://asciinema.org/a/FGnro3sCtU3HTyLbT2SJ1RYgY.svg)](https://asciinema.org/a/FGnro3sCtU3HTyLbT2SJ1RYgY)
 
 brain-calc example:
-https://asciinema.org/a/X05v4uIdyzpoUQTxmBacJsXwt
+[![asciicast](https://asciinema.org/a/X05v4uIdyzpoUQTxmBacJsXwtsvg)](https://asciinema.org/a/X05v4uIdyzpoUQTxmBacJsXwtsvg)
