@@ -26,9 +26,11 @@ def brain_even(name):
             print('Correct!')
         elif random_num % 2 == 0 and answer != 'yes':
             print('"', answer, '"', ' is wrong answer ;(. Correct answer was "yes"')
+            print(f'Let`s try again, {name}!')
             quit()
         elif random_num % 2 != 0 and answer != 'no':
             print('"', answer, '"', ' is wrong answer ;(. Correct answer was "no"')
+            print(f'Let`s try again, {name}!')
             quit()
         n += 1
     print(f'Congratulations, {name}!')
