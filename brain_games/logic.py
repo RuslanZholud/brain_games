@@ -5,6 +5,10 @@ from random import randint
 ATTEMPTS = 3
 
 
+def welcome():
+    print('Welcome to the Brain Games!')
+
+
 def get_user_name():
     name = prompt.string('May I have your name?')
     print(f'Hello, {name}!')
