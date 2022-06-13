@@ -19,4 +19,4 @@ def brain_gcd():
         user_answer = logic.get_user_answer()
         logic.run(user_answer, correct_answer, user_name)
         attempts -= 1
-    logic.welcome(user_name)
+    logic.win_message(user_name)
