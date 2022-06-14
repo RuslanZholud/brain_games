@@ -8,6 +8,7 @@ def make_progression():
     progression_first_num = randint(1, 10)
     hidden_element_index = randint(0, progression_len - 1)
     progression = ''
+    correct_answer = ''
     counter = 0
     while counter < progression_len:
         next_in_progression = progression_first_num + counter * step
