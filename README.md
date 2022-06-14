@@ -13,3 +13,6 @@ brain-gcd example:
 
 brain-progression example:
 [![asciicast](https://asciinema.org/a/dk0I82ElUy8NttOjs8XtNorSO.svg)](https://asciinema.org/a/dk0I82ElUy8NttOjs8XtNorSO)
+
+brain-prime example:
+[![asciicast](https://asciinema.org/a/m7B6bsj9890Zy0BCcXYWoi6LI.svg)](https://asciinema.org/a/m7B6bsj9890Zy0BCcXYWoi6LI)
