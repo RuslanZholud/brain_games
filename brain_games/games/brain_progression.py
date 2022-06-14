@@ -33,6 +33,3 @@ def brain_progression():
         logic.run(user_answer, correct_answer, user_name)
         attempts -= 1
     logic.win_message(user_name)
-
-
-brain_progression()
